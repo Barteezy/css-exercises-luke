@@ -16,3 +16,28 @@ img {
   #222
   #7BBADE
 */
+
+.box-model {
+  width: 50%;
+  margin: auto;
+}
+
+.a {
+  background: #FFED5D;
+  padding: 20px;
+}
+
+.b {
+  background: #FF7050;
+  padding: 20px;
+}
+
+.c {
+  background: #222;
+  padding: 20px;
+}
+
+.d {
+  background: #7BBADE;
+  padding: 20px;
+}
