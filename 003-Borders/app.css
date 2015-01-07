@@ -3,3 +3,22 @@ img {
 }
 
 /* Code Under This Line */
+
+.redtenpxborder {
+  border: 10px solid red;
+}
+
+.bluetenpxborder {
+  border: 10px solid blue;
+}
+
+.greenleftborder {
+  border-left: 10px solid green;
+}
+
+.redblueborder {
+  border-top: 10px solid red;
+  border-bottom: 10px solid red;
+  border-left: 10px solid blue;
+  border-right: 10px solid blue;
+}
