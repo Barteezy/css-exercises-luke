@@ -12,3 +12,24 @@ img {
 }
 
 /* Code Under This Line */
+
+.foo {
+  /*max-width: 100%;*/
+  background: red;
+}
+
+.bar {
+  background: blue;
+}
+
+.baz {
+  background: green;
+}
+
+.fiz {
+  background: blue;
+}
+
+div {
+  background: green;
+}
